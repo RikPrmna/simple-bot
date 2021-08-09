@@ -706,7 +706,7 @@ switch (command) {
 │Link: https://github.com/Hexagonz/SELF-HX
 │
 │Di Recode oleh Itz.Me.Erick
-│Link: -
+│Link: https://github.com/Shuichi126/simple-bot
 ├────────────────────
 ├➪ *THANKS TO*
 │
@@ -2690,11 +2690,11 @@ ${descOwner ? `*Desc diubah oleh* : @${descOwner.split('@')[0]}` : '*Desc diubah
              break
 default:
 if(budy === 'P'){
-if (!mek.key.fromMe) return
+if (!mek.key.fromMe && !isOwner) return
 faketroli('```ACTIVE```')
 }
 if(budy.includes('@6282130301023')){
-otomatis('Ya knp?')
+otomatis(kenapa ngetag owner ku?')
 }
 if(budy.includes('Assalamualaikum')){
 reply('Waalaikumsalam')
