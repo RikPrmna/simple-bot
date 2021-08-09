@@ -946,6 +946,14 @@ switch (command) {
           reply(`reply gambar/sticker/audio/video dengan caption ${prefix}totag`)
         }
         break
+    case 'broadcast':
+                    if (sender.split("@")[0] != owner) return reply(mess.only.ownerB)
+                    list_chat = await erik.chats.all()
+                    ini_text = args.join(" ")
+                    for (let chat of list_chat) {
+                        sendMess(chat.jid, ini_text)
+                    }
+                    break
     case 'settarget':
             if (!mek.key.fromMe && !isOwner) return reply(mess.only.ownerB)
             if(!q) return reply(`${prefix}settarget 628xxxxx`)
