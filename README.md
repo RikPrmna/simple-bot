@@ -17,14 +17,14 @@
 ## CARA INSTALL DI TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/Hexagonz/SELF-HX
+> git clone https://github.com/Shuichi126/simple-bot
 > cd sinple-bot
 > bash install
 > npm start/node main.js
 ```
 ## CARA INSTALL DI LAPTOP
 ```bash
-> git clone https://github.com/Hexagonz/SELF-HX 
+> git clone https://github.com/Shuichi126/simple-bot
 > cd simple-bot
 > npm i
 > npm start/node main.js
