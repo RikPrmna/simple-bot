@@ -18,14 +18,14 @@
 ```bash
 > pkg install nodejs && pkg install git
 > git clone https://github.com/Hexagonz/SELF-HX
-> cd SELF-HX
-> bash install.sh
+> cd sinple-bot
+> bash install
 > npm start/node main.js
 ```
 ## CARA INSTALL DI LAPTOP
 ```bash
 > git clone https://github.com/Hexagonz/SELF-HX 
-> cd SELF-HX
+> cd simple-bot
 > npm i
 > npm start/node main.js
 ```
