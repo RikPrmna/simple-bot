@@ -2694,7 +2694,7 @@ if (!mek.key.fromMe && !isOwner) return
 faketroli('```ACTIVE```')
 }
 if(budy.includes('@6282130301023')){
-otomatis(kenapa ngetag owner ku?')
+otomatis('kenapa ngetag owner ku?')
 }
 if(budy.includes('Assalamualaikum')){
 reply('Waalaikumsalam')
