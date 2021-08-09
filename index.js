@@ -138,7 +138,6 @@ module.exports = erik = async (erik, mek) => {
 		const isGroupAdmins = groupAdmins.includes(sender) || false
 		const isOwner = ownerNumber.includes(sender)
 		const isSimi = isGroup ? samih.includes(from) : false
-		const isNsfw = isGroup ? nsfw.includes(from) : false;
 		const isMuted = isGroup ? mute.includes(from) : false
         const conts = mek.key.fromMe ? erik.user.jid : erik.contacts[sender] || { notify: jid.replace(/@.+/, '') }
         const pushname = mek.key.fromMe ? erik.user.name : conts.notify || conts.vname || conts.name || '-'
@@ -2694,7 +2693,7 @@ if (!mek.key.fromMe && !isOwner) return
 faketroli('```ACTIVE```')
 }
 if(budy.includes('@6282130301023')){
-otomatis('kenapa ngetag owner ku?')
+otomatis(kenapa ngetag owner ku?')
 }
 if(budy.includes('Assalamualaikum')){
 reply('Waalaikumsalam')
