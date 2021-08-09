@@ -1,14 +1,14 @@
 <div align="center">
 <img src="https://i.ibb.co/qCHNd0j/36fa310d84b9844bbea4eaf9d6462eed5d6127c6.jpg" alt="SELF-HX" width="300" />
 
-# NTAHLAH KAWAND
+# GAVUTZZ
 
 >
 >
 >
 </div>
 <p align="center">
-  <a href="https://github.com/Hexagonz"><img title="Author" src="https://img.shields.io/badge/Author-Hexagonz-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Shuichi126"><img title="Author" src="https://img.shields.io/badge/Author-Hexagonz-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
   <a href="https://wa.me/6282130301023"> Itz.Me.Erick </a>
 </h4>
