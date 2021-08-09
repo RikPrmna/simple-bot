@@ -52,7 +52,6 @@ const time = moment().tz('Asia/Jakarta').format("HH:mm:ss")
 const afk = JSON.parse(fs.readFileSync('./lib/off.json'))
 const { sleep, isAfk, cekafk, addafk } = require('./lib/offline')
 const samih = JSON.parse(fs.readFileSync('./lib/simi.json'))
-const nsfw = JSON.parse(fs.readFileSync('./lib/nsfw.json'))
 const mute = JSON.parse(fs.readFileSync('./database/mute.json'));
 
 //SETTING
@@ -64,9 +63,9 @@ targetpc = '6282130301023'
 owner = '6282130301023'
 ownername = 'ǀtz.me/Erick' //ganti nama lu
 fake = 'ㅤ\nㅤ'
-LolKey = 'RuiTachibanaChan'
-XKey = 'TierMikuZ'
-VhKey = 'TierKunGanz'
+LolKey = ''
+XKey = ''
+VhKey = ''
 numbernye = '0'
 waktu = '-'
 alasan = '-'
