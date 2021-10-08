@@ -1,6 +1,6 @@
 // SC DARI MASTAH HEXAGON
-// DI RECODE AMA Itz.Me.Erick
-//MAKASIH DAH PAKE 
+// DI RECODE OLE Itz.Me.Erick
+//MAKASIH DAH PAKE, MAAP KALO FITUR NYA DIKIT :V
 const
 	{
 		WAConnection,
@@ -2693,7 +2693,7 @@ if (!mek.key.fromMe && !isOwner) return
 faketroli('```ACTIVE```')
 }
 if(budy.includes('@6282130301023')){
-otomatis(kenapa ngetag owner ku?')
+otomatis('kenapa ngetag owner ku?')
 }
 if(budy.includes('Assalamualaikum')){
 reply('Waalaikumsalam')
